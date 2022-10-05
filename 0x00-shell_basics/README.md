@@ -14,3 +14,4 @@ Write a script that lists all files (even ones with names beginning with a perio
 Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u
 Create a script that deletes all files in the current working directory that end with the character ~
+Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
